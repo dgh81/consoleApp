@@ -10,3 +10,4 @@ module.exports = settings;
 // 'clientId': '49fab896-11e5-499e-893b-81a5aef5f5e6',
 // 'clientSecret': 'hAW8Q~aTj87SOqFQaTP-L6GdcEmV-70AQ2cWobsC',
 // 'tenantId': '24803583-b63e-427b-857f-ff71b1863978'
+// 'appIdUri': 'api://49fab896-11e5-499e-893b-81a5aef5f5e6'
